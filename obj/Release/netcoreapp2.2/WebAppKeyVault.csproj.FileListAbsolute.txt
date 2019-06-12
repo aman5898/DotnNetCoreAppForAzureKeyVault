@@ -1,0 +1,14 @@
+C:\Users\Aman\source\repos\WebAppKeyVault\bin\Release\netcoreapp2.2\WebAppKeyVault.deps.json
+C:\Users\Aman\source\repos\WebAppKeyVault\bin\Release\netcoreapp2.2\WebAppKeyVault.runtimeconfig.json
+C:\Users\Aman\source\repos\WebAppKeyVault\bin\Release\netcoreapp2.2\WebAppKeyVault.runtimeconfig.dev.json
+C:\Users\Aman\source\repos\WebAppKeyVault\bin\Release\netcoreapp2.2\WebAppKeyVault.dll
+C:\Users\Aman\source\repos\WebAppKeyVault\bin\Release\netcoreapp2.2\WebAppKeyVault.pdb
+C:\Users\Aman\source\repos\WebAppKeyVault\obj\Release\netcoreapp2.2\WebAppKeyVault.csprojAssemblyReference.cache
+C:\Users\Aman\source\repos\WebAppKeyVault\obj\Release\netcoreapp2.2\WebAppKeyVault.csproj.CoreCompileInputs.cache
+C:\Users\Aman\source\repos\WebAppKeyVault\obj\Release\netcoreapp2.2\WebAppKeyVault.RazorAssemblyInfo.cache
+C:\Users\Aman\source\repos\WebAppKeyVault\obj\Release\netcoreapp2.2\WebAppKeyVault.RazorAssemblyInfo.cs
+C:\Users\Aman\source\repos\WebAppKeyVault\obj\Release\netcoreapp2.2\WebAppKeyVault.AssemblyInfoInputs.cache
+C:\Users\Aman\source\repos\WebAppKeyVault\obj\Release\netcoreapp2.2\WebAppKeyVault.AssemblyInfo.cs
+C:\Users\Aman\source\repos\WebAppKeyVault\obj\Release\netcoreapp2.2\WebAppKeyVault.RazorTargetAssemblyInfo.cache
+C:\Users\Aman\source\repos\WebAppKeyVault\obj\Release\netcoreapp2.2\WebAppKeyVault.dll
+C:\Users\Aman\source\repos\WebAppKeyVault\obj\Release\netcoreapp2.2\WebAppKeyVault.pdb
